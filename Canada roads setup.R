@@ -17,3 +17,5 @@ for(ii in 1:length(fls)){
 }
 
 saveRDS(nms, file="Can_roads_attribute_names.rds")
+
+##LAMB TEST
